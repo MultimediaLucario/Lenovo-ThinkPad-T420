@@ -1,7 +1,5 @@
-# Lenovo-T420-Clover
+# Lenovo ThinkPad T420 OpenCore / Clover Configuration
 
-This repo contains the files and scripts to install macOS on the Lenovo T420
 
-Refer to this Guide for the details: 
-
-https://www.insanelymac.com/forum/topic/285678-lenovo-thinkpad-t420-with-uefi-only/?page=20&tab=comments#comment-1952283
+[![macOS](https://img.shields.io/badge/macOS-Big_Sur_11.6.8-red)](https://www.apple.com/macos/big-sur/)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.5-blue)](https://github.com/acidanthera/OpenCorePkg)
